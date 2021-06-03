@@ -25,7 +25,7 @@ module.exports = {
     },
   ],
   author: {
-    name: "Ivor Scott",
+    name: "Ivor Scott Cummings",
     photo: "/photo.jpg",
     bio:
       "Artist, Software Engineer, Traefik Ambassador and Docker Mastery Teaching Assistant based in Berlin.",
